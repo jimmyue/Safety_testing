@@ -1,0 +1,7 @@
+1.手工验证：
+burpsuite
+msfconsole
+
+2.自动扫描
+AWVS/acunetix
+Tenable Nessus
