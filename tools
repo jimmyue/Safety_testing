@@ -1,6 +1,6 @@
 1.手工验证：
 burpsuite
-msfconsole
+metasploit/msfconsole
 
 2.自动扫描
 主机扫描：Tenable Nessus
